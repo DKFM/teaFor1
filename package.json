@@ -1,6 +1,6 @@
 {
   "name": "teaforstudy",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "ESC/POS Printer driver for nodejs",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "bufferhelper": "^0.2.1",
-    "web3": "^0.4.24"
+    "web3": "^0.4.24",
+    "teasolstudy": "^1.0.1"
   },
   "engines": {
     "node": ">=8.x",
